@@ -1,8 +1,8 @@
 # Olá, eu sou o Aleksander Gustavo! 👋
 
-Seja bem-vindo ao meu espaço focado em **Garantia de Qualidade de Software (QA)**. Aqui, documento minha jornada de aprendizado e transição para a área de testes, construindo uma base sólida que vai desde os conceitos manuais até a automação de testes complexos.
+Seja bem-vindo ao meu perfil! Atualmente sou estudante de **Desenvolvimento de Software Multiplataforma**. 
 
-Atualmente, sou estudante de Desenvolvimento de Software Multiplatforma e busco unir minha bagagem em lógica e código para garantir a entrega de sistemas robustos, confiáveis e sem bugs.
+Este espaço foi criado especificamente para documentar minha evolução na área de **Quality Assurance (QA) e Testes de Software**. Meu objetivo aqui é publicar meus aprendizados de forma gradativa, começando do básico (testes manuais e lógica de testes) e avançando conforme evoluo na faculdade e nos meus estudos autônomos.
 
 ---
 
