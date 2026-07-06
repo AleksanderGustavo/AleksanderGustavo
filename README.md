@@ -43,5 +43,5 @@ Meu objetivo é documentar meu aprendizado de forma transparente. Você verá me
 
 ## 🤝 Conecte-se Comigo
 
-*   **LinkedIn:** [Seu Nome ou Link do Perfil](https://linkedin.com/in/seu-usuario)
+*   **LinkedIn:** https://www.linkedin.com/in/aleksandergustavo/
 *   **E-mail:** aleksandergustavo9@gmail.com
