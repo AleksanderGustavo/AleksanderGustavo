@@ -10,12 +10,12 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplatforma e busco 
 
 ### 🧪 Gestão & Planejamento de Testes
 *   **Metodologias:** Testes Manuais, Escrita de Casos de Teste (Test Cases), Planos de Teste, Reporte de Bugs (Bug Report)
-*   **Ferramentas de Organização:** Jira, Trello, Notion
+*   **Ferramentas de Organização:** Jira, Github Projects, Trello
 
 ### 💻 Linguagens & Automação (Foco Gradativo)
 *   **Linguagens Base:** Java (Principal), PHP, JavaScript
 *   **Bancos de Dados:** MySQL (utilizando ambientes isolados com Docker)
-*   **Automação (Futuro/Estudos Atuais):** Selenium WebDriver, Cypress, JUnit / TestNG
+*   **Automação (Futuro/Estudos Atuais):** Selenium WebDriver, Cypress, JUnit
 
 ---
 
