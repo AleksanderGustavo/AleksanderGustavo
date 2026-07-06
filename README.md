@@ -35,7 +35,10 @@ Meu objetivo é documentar meu aprendizado de forma transparente. Você verá me
 ## 📈 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleksanderGustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Aleksander" height="150" />
+  <!-- Card de Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AleksanderGustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksanderGustavo&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </p>
 
